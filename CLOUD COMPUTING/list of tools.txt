@@ -1,0 +1,5 @@
+The list of tools used used in this process are
+
+1) Android studio (with new version for developing application)
+
+2) Firebase (to store data)

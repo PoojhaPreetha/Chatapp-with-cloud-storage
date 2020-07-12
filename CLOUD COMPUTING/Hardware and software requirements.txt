@@ -1,0 +1,23 @@
+﻿The minimum the hardware requirements of the system are as follows:
+
+Laptop/PC with an exceptionally good intel i5 CPU and a AMD Radeon graphics card
+
+Disk Space-32 GB or more,10 GB or more for Foundation Edition
+
+Processor-1.4 GHz 64 bit
+
+Memory-512 MB
+
+Display	(800 × 600) Capable video adapter and monitor
+
+
+Software Requirements:
+
+Operating System (i.e. Windows XP, SP 2 or Mac OS X 10.3.8)
+
+Processor Speed (i.e. Pentium 4, 3.2 GHz or Power PC G5, 2.0 GHz)
+
+Hard Disk Space (i.e. 80 GB available)
+
+
+
